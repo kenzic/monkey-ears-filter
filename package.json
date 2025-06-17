@@ -1,0 +1,10 @@
+{
+  "name": "monkey-ears-filter",
+  "version": "1.0.0",
+  "description": "## Description This project showcases a real-time augmented reality filter that overlays playful “monkey ears” on your head using MediaPipe’s FaceLandmarker + WASM.",
+  "scripts": {
+    "start": "npx http-server ./public -p 3030"
+  },
+  "author": "Chris Mckenzie",
+  "license": "Apache-2.0"
+}
